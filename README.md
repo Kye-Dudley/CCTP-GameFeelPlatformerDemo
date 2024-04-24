@@ -2,6 +2,9 @@
 ![alt text](https://static.wixstatic.com/media/3b1521_0f06e1b796964c77bdbf29dc10511b5a~mv2.png)
 
 UWE Games tech comprehensive creative technologies project: A 3D platformer character controller that makes use of good game feel fundamentals.
+
+**Playable build available [here](https://uweacuk-my.sharepoint.com/:u:/g/personal/kye2_dudley_live_uwe_ac_uk/ERaEG3-AMFZNqTLYMDxwOFgBvLWKPJEtXjM7RSUCBVcK1Q?e=Dcmc0t)**
+
 ### Features
 - Jump tolerances: coyote time and jump buffering
 - Analog jumping, jump curves and double jumping
